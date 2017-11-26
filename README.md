@@ -1,5 +1,7 @@
 # JavaScript Strings Lab
 
+learn submit
+
 ![lab](https://i.giphy.com/NETCsDYm0fL44.gif)
 
 ## Overview 
